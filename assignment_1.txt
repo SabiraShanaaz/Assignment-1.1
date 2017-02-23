@@ -1,0 +1,66 @@
+1.Various sources of big data
+     The various sources of big data are
+          * Banking
+          * Social network
+          * Weather forecasting
+          * Business Apps
+          * Industrialized and Natural Resources
+          * Transportation
+
+
+
+2.3 V's of Big data
+     The 3 V's of big data are
+          *Volume:
+                 The quantity of generated and stored data (ie) the amount of data.
+
+          *Variety:
+                 The type and nature of the data.It can be structured,unstructed or semi structed data.
+
+          *Velocity:
+                 The speed at which the data is generated and processed. 
+
+
+
+3.Horizontal Scaling and Vertical Scaling
+     
+      * Horizontal Scaling:
+
+             -It is also called as scale-out.
+ 
+             -Horizontal scaling has the ability to increase the capacity by connecting
+                   multiple software or hardware entities together in such a way that they function as a single logical unit.
+
+      * Vertical Scaling:
+ 
+             -It is also called as scale-up.
+
+             -Vertical scaling is the process of adding physical resoures to the 
+                   existing database in order to improve the performance.
+                       
+             -It helps in upgrading the capacity of the existing database server. 
+
+
+
+
+4.Need and Working of Hadoop
+    
+       * Need of Hadoop:
+                    
+               -Hadoop is mostly needed to handle large volume of data efficiently 
+                           (ie) it handles both the structured and unstructured data.
+               
+               -Hadoop is cost saving because it is a open source software and it can run on commodity hardware.
+             
+        * Working of Hadoop:
+               
+               - When user access either structured or unstructured data,the data is broken up into parts 
+                         and the broken parts are loaded into file system.
+                       
+               -The file system is made up of multiple nodes.The parts that are saved in the file system
+                               are replicated multiple times and they are safe from failure.
+ 
+
+
+
+
